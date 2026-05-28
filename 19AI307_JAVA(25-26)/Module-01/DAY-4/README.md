@@ -32,7 +32,7 @@ To write a Java program to find the maximum odd number in a given array using ar
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: EZHIL NEVEDHA K
+Developed by: EZHIL NEVEDHA K 
 RegisterNumber: 212223230055 
 */
 ```
