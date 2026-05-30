@@ -90,6 +90,7 @@ java prog
 ---
 
 ## OUTPUT:
+<img width="602" height="400" alt="image" src="https://github.com/user-attachments/assets/df638c0e-c766-451f-a381-ae0ed7a2e885" />
 
 ```
 101
